@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DevSpace2021</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pomodoroContent">Pomodoro helps you to be productive and work more efficiently. It breaks your work time in the slots of 25 mins with a break of 5 mins in between. So that you work with complete concentration</string>
+    <string name="goToSignUp">New to Selfuel? <u>Sign Up</u></string>
+    <string name="goToLogin"> <u>Back to login?</u></string>
+</resources>
